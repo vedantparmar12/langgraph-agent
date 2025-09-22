@@ -14,7 +14,7 @@ I implemented two tools that the agent can use:
 
 **Arithmetic Calculator**: I made this tool handle both simple operations like "5 + 3" and complex expressions like "2+3*4-5/2". I used Python's AST module to safely evaluate mathematical expressions without security risks.
 
-**Country Information Tool**: I connected this to the free REST Countries API to get real data about any country including capital, currency, and region. I removed the need for API keys by switching from a paid service to this free one.
+**Country Information Tool**: I connected this to the free REST Countries API to get real data about any country including capital, currency, and region.
 
 ### Memory System
 I implemented a dual memory approach:
